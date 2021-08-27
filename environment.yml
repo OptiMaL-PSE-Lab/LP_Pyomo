@@ -1,0 +1,12 @@
+name: LP-environment
+
+channels:
+    - conda-forge
+    
+dependencies:
+  - python=3.4
+  - numpy
+  - matplotlib
+  - pandas
+  - pyomo
+  - coincbc 
